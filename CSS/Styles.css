@@ -1,0 +1,16 @@
+head{
+    background-color: beige;
+}
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+nav {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-left: 15px;
+    text-decoration: none;
+}
