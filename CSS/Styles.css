@@ -8,6 +8,7 @@ body{
 footer{
     padding: 15px;
     background-color: #36382E;
+    color: #EDE6E3;
 }
 h1{
     text-align: center;
@@ -51,4 +52,7 @@ form {
 
 .show {
   display: block;
+}
+.avatar img{
+    align-content: center;
 }
