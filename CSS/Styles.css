@@ -1,16 +1,15 @@
-head{
-    background-color: DADAD9
-    color:F06449;
+header{
+    background-color: #36382E;
+    color: #dadad9;
 }
 body{
-    background-color: F06449;
+    background-color: #dadad9;
 }
-h1,title{
-	color:F06449;
-    text-align: center;
-}
-
 footer{
+    padding: 15px;
+    background-color: #36382E;
+}
+h1{
     text-align: center;
 }
 nav {
@@ -21,3 +20,24 @@ nav {
     text-decoration: none;
 }
 
+nav a{
+    color: #36382E;
+    padding-left: 10px;
+}
+nav a:link{
+    color: #36382E;
+    
+}
+nav a:visited{
+    color:#df2f234f
+}
+nav a:hover{
+    color: #F06449;
+}
+canvas{
+    text-align: center;
+    /*margin-left: 200px;*/
+}
+.popup{
+    border: 10px black;
+}
