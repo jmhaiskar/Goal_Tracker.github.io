@@ -1,10 +1,12 @@
 head{
-    background-color: beige;
+    background-color: DADAD9
+    color:F06449;
 }
 body{
-    background-color: beige;
+    background-color: F06449;
 }
-h1{
+h1,title{
+	color:F06449;
     text-align: center;
 }
 nav {
