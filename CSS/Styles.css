@@ -13,6 +13,11 @@ footer{
 h1{
     text-align: center;
 }
+
+.BmiHead{
+    text-align: left;
+}
+
 nav {
     text-align: center;
     font-weight: bold;
